@@ -1,7 +1,7 @@
 # 🛡 Meta Hunter – Tracking VoIP Calls via Network Metadata  
 
 <p align="center">
-  <img src="assets/logo.jpg" width="250" alt="Meta Hunters Logo"/>
+  <img src="assets/logo1.jpg" width="250" alt="Meta Hunters Logo"/>
 </p>
 
 > 🚀 A project developed for *National CyberShield Hackathon 2025* by Team *Meta Hunters*, VIT Bhopal  
