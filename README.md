@@ -14,6 +14,12 @@
 ![Team](https://img.shields.io/badge/Team-Meta%20Hunter-green?style=for-the-badge&logo=teamspeak)  
 ![Institution](https://img.shields.io/badge/VIT-Bhopal-orange?style=for-the-badge&logo=google-scholar)  
 ![Python](https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python)  
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Defense-blue?style=for-the-badge&logo=security)  
+![VoIP Security](https://img.shields.io/badge/VoIP-Security-critical?style=for-the-badge&logo=voipdotms)  
+![Encryption](https://img.shields.io/badge/End--to--End-Encryption-brightgreen?style=for-the-badge&logo=letsencrypt)  
+![Threat Detection](https://img.shields.io/badge/Threat-Detection-red?style=for-the-badge&logo=datadog)  
+![Network Analysis](https://img.shields.io/badge/Network-Analysis-orange?style=for-the-badge&logo=wireshark)  
+![AI Powered](https://img.shields.io/badge/AI-Powered-lightblue?style=for-the-badge&logo=openai)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Anomaly%20Detection-red?style=for-the-badge&logo=scikitlearn)  
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=open-source-initiative)  
 
