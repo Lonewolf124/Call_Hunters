@@ -75,7 +75,7 @@ VoIP (Voice over Internet Protocol) calls are widely used because of their low c
 ## 📊 Architecture Diagram  
 (Replace with your actual diagram – placeholder below)  
 
-![Architecture](assets/architecture.jpg)  
+![Architecture](assets/architecture.png)  
 
 ---
 
