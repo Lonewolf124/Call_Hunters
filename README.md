@@ -4,7 +4,7 @@
   <img src="A_flat-design_digital_vector_graphic_of_the_Meta_H.png" alt="Meta Hunter Logo" width="250"/>
 </p>
 
-> 🚀 A project developed for *National CyberShield Hackathon 2025* by Team *Meta Hunter*, VIT Bhopal  
+> 🚀 A project developed for *National CyberShield Hackathon 2025* by Team *Meta Hunters*, VIT Bhopal  
 
 ---
 
