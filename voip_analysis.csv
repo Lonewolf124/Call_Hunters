@@ -1,0 +1,2 @@
+call_id,call_duration,caller_ip,callee_ip,start_time,end_time,avg_jitter,packet_loss_percent,codec_type,setup_time,packets_per_second,bytes_per_second,retransmission_count,response_code_variety,concurrent_calls,jitter_variance,port_range_used,call_termination_method,peak_bandwidth,talk_silence_ratio
+RTP_CALL_1,26,10.0.2.15,5.135.215.43,2025-08-31T12:43:44.206636,2025-08-31T12:44:11.192691,15.426,0.0,96=Unknown,0,80.15,5049.58,940,0,1,1820.557,16840,0,5930,99.7
