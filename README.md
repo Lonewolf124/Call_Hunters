@@ -36,7 +36,7 @@ VoIP (Voice over Internet Protocol) calls are widely used because of their low c
 - Collect SIP & RTP metadata (IP addresses, timestamps, call duration, packet size trends)  
 - Correlate traffic patterns across networks  
 - Use *AI-driven anomaly detection* to identify fraud/spam calls  
-- Non-intrusive: Works even with encrypted VoIP  
+
 
 ---
 
