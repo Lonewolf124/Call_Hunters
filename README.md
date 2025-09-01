@@ -217,7 +217,7 @@ import scapy.all
 import pyshark
 import joblib
 import sklearn
-print('✅ All Python dependencies working!')
+print('All Python dependencies working!')
 "
 ```
 
