@@ -102,7 +102,13 @@ VoIP (Voice over Internet Protocol) calls are widely used because of their low c
 ---
 
 ## 🖼 Screenshots / Demo  
-(Add screenshots of your UI, packet analysis, ML output here)  
+<p align="center">
+  <img src="assets/photo1.png" alt="Screenshot 1" width="30%"/>
+  <img src="assets/photo2.png" alt="Screenshot 2" width="30%"/>
+  <img src="assets/photo3.png" alt="Screenshot 3" width="30%"/>
+</p>
+
+
 
 ---
 
