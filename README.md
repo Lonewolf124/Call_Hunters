@@ -112,7 +112,11 @@ VoIP (Voice over Internet Protocol) calls are widely used because of their low c
   <img src="assets/photo5.png" alt="Screenshot 5" width="30%"/>
   <img src="assets/photo6.png" alt="Screenshot 6" width="30%"/>
 </p>
-
+<p align="center">
+  <img src="assets/photo7.png" alt="Screenshot 7" width="30%"/>
+  <img src="assets/photo8.png" alt="Screenshot 8" width="30%"/>
+  <img src="assets/photo9.png" alt="Screenshot 9" width="30%"/>
+</p>
 
 
 
